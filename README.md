@@ -8,6 +8,8 @@
 * We can obtain conclusions that will help us to make better marketing campaigns and improve profits
 * The tools used are SQL server and Power BI
 
+You can access to it **[HERE](https://roberto121c.github.io/Sales_Management/)**
+
 [![go to project](Sales_Management/PB Sales Overview.PNG)](https://roberto121c.github.io/Sales_Management/)
 
 

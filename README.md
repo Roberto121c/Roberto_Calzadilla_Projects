@@ -27,3 +27,15 @@ You can access to it **[HERE](https://roberto121c.github.io/Excel_Analysis_Proje
 [![go to project](Excel_Sales_Analysis/Sales_overview.PNG)](https://roberto121c.github.io/Excel_Analysis_Project/)
 
 
+
+## [PYTHON - BANK LOANS ANALYSIS](https://roberto121c.github.io/Bank_loans_analysis/)
+
+### Project overview
+- We need to know which factors influence to give a loan
+- We also need to look for any opportunity to increase the bank's assets.
+- It was found that apart from income, family size is an important factor.
+- The libraries used were pandas, numpy, matplotlib, seaborn and scipy.
+
+You can access to it **[HERE](https://roberto121c.github.io/Bank_loans_analysis/)**
+
+[![go to project](Bank_Loan_analysis/Correlation_heatmap.png)](https://roberto121c.github.io/Bank_loans_analysis/)

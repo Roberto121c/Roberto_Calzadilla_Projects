@@ -1,5 +1,20 @@
 # My Projects by Roberto Calzadilla
 
+
+## [DATA ENGINEERING PROJECT - HOUSE PRICES](https://roberto121c.github.io/Sales_Management/)
+
+### Project overview
+* I developed a ETL proces where we scrape data from a page, we transform it and store it in AWS and finally we do some analysis
+* I explore the relation between price, area, rooms, bathrooms, localization and garage
+* The conclusion allow us to determinate which house will be sold best and how to improve sales
+* The tools used are pyspark, glue, ......
+
+You can access to it **[HERE](https://roberto121c.github.io/House_prices/)**
+
+[![go to project](Sales_Management/PB Sales Overview.PNG)](https://roberto121c.github.io/Sales_Management/)
+
+
+
 ## [DATA ANALYSIS PROJECT - SALES MANAGEMENT](https://roberto121c.github.io/Sales_Management/)
 
 ### Project overview

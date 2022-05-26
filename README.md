@@ -4,14 +4,14 @@
 ## [DATA ENGINEERING PROJECT - HOUSE PRICES](https://roberto121c.github.io/House_prices/)
 
 ### Project overview
-* I developed a ETL proces where we scrape data from a page, we transform it and store it in AWS and finally we do some analysis
-* I explore the relation between price, area, rooms, bathrooms, localization and garage
-* The conclusion allow us to determinate which house will be sold best and how to improve sales
-* The tools used are pyspark, glue, ......
+* Developed a complete ETL process using different technologies (Pyspark, beatifulsoup, AWS, sklearn)
+* Scraped information from a real state webpage, the crude data is stored in S3
+* Cleaned the data with AWS Glue and pyspark, then loaded it to Athena SQL
+* Finally did EDA and model a linear regression to calculate the missing data about total area
 
 You can access to it **[HERE](https://roberto121c.github.io/House_prices/)**
 
-[![go to project](Sales_Management/PB Sales Overview.PNG)](https://roberto121c.github.io/House_prices/)
+[![go to project](House_prices/house_prices_0.PNG)](https://roberto121c.github.io/House_prices/)
 
 
 

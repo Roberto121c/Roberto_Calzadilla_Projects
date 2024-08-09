@@ -9,6 +9,12 @@
 
 You can access to it **[HERE](https://roberto121c.github.io/Traffic_Regulations_Chatbot/)**
 
+<div style="display: flex; justify-content: center;">
+  <a href="https://roberto121c.github.io/Traffic_Regulations_Chatbot/">
+    <img src="RAG_app/RAG_App.png" alt="go to project" style="max-width:100%;">
+  </a>
+</div>
+
 ## [DATA ENGINEERING PROJECT - HOUSE PRICES](https://roberto121c.github.io/House_prices/)
 
 ### Project overview

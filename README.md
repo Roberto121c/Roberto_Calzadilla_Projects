@@ -1,5 +1,17 @@
 # My Projects by Roberto Calzadilla
 
+## [RAG PROJECT - TRAFFIC REGULATIONS CHATBOT](https://roberto121c.github.io/Traffic_Regulations_Chatbot/)
+
+### Project overview
+* Developed a RAG aplication that allow us to answer questions using Mexico´s City Official Traffic Regulations
+* Converted a PDF in embeddings using Bedrock and Titan while I stored this embeddings in OpenSearch usin AWS
+* The infraestructured was developed using Langchain and the main model was Claude3 Haiku to answer
+* I created the OpenSearch instance using Boto3
+
+You can access to it **[HERE](https://roberto121c.github.io/Traffic_Regulations_Chatbot/)**
+
+[![go to project](House_prices/house_prices_0.PNG)](https://roberto121c.github.io/Traffic_Regulations_Chatbot/)
+
 
 ## [DATA ENGINEERING PROJECT - HOUSE PRICES](https://roberto121c.github.io/House_prices/)
 

@@ -7,12 +7,6 @@
 * Leveraged LangChain, AWS Bedrock, and OpenSearch for the backend infrastructure.
 * Implemented the Retrieval-Augmented Generation methodology, using Titan for embeddings and Claude Haiku as the Language Model.
 
-<p align="center">
-  <a href="https://roberto121c.github.io/Traffic_Regulations_Chatbot/">
-    <img src="https://github.com/Roberto121c/Traffic_Regulations_Chatbot/blob/main/images/RAG_App.png" alt="RAG_App.png" width="500"/>
-  </a>
-</p>
-
 You can access to it **[HERE](https://roberto121c.github.io/Traffic_Regulations_Chatbot/)**
 
 ## [DATA ENGINEERING PROJECT - HOUSE PRICES](https://roberto121c.github.io/House_prices/)

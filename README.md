@@ -1,5 +1,21 @@
 # My Projects by Roberto Calzadilla
 
+## [ML PROJECT - RECOMMENDATION SYSTEM](https://roberto121c.github.io/Recommendation_System/)
+
+### Project overview
+* Developed a movie recommendation system using matrix factorization techniques.
+* Compared two methods: Regularized Least Squares implemented from scratch versus SVD using the Surprise library.
+* The scratch-built model slightly outperformed the library-based model, but its higher complexity to made it less practical and reliable.
+
+You can access to it **[HERE](https://roberto121c.github.io/Recommendation_System/)**
+
+<div style="display: flex; justify-content: center;">
+  <a href="https://roberto121c.github.io/Recommendation_System/">
+    <img src="recommendation_system/user_activity_movie_popularity.jpg" alt="go to project" style="max-width:100%;">
+  </a>
+</div>
+
+
 ## [RAG PROJECT - TRAFFIC REGULATIONS CHATBOT](https://roberto121c.github.io/Traffic_Regulations_Chatbot/)
 
 ### Project overview

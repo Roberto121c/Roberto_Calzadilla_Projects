@@ -5,7 +5,7 @@
 ### Project overview
 * Developed a movie recommendation system using matrix factorization techniques.
 * Compared two methods: Regularized Least Squares implemented from scratch versus SVD using the Surprise library.
-* The scratch-built model slightly outperformed the library-based model, but its higher complexity to made it less practical and reliable.
+* The scratch-built model slightly outperformed the library-based model, but with higher complexity and performance.
 
 You can access to it **[HERE](https://roberto121c.github.io/Recommendation_System/)**
 

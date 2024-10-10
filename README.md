@@ -1,5 +1,21 @@
 # My Projects by Roberto Calzadilla
 
+## [NLP PROJECT - SENTIMENT_CLASSIFICATION](https://roberto121c.github.io/Sentiment_Analysis_Mental_Health/)
+
+### Project overview
+* Builded a ML model to classify mental health status from text data using NLTK and XGBoost.
+* Preprocessed the text, did feature engineering and apply TF-IDF as bag of words
+* After tunning I saved and tested the model with a 82% accuracy
+
+You can access to it **[HERE](https://roberto121c.github.io/Sentiment_Analysis_Mental_Health/)**
+
+<div style="display: flex; justify-content: center;">
+  <a href="https://roberto121c.github.io/Sentiment_Analysis_Mental_Health/">
+    <img src="Sentiment_Analysis/anxiety.png" alt="go to project" style="max-width:100%;">
+  </a>
+</div>
+
+
 ## [ML PROJECT - RECOMMENDATION SYSTEM](https://roberto121c.github.io/Recommendation_System/)
 
 ### Project overview
